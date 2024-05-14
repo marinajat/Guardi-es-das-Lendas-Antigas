@@ -1,2 +1,2 @@
-# Guardi-es-das-Lendas-Antigas
+# Guardi-oes-das-Lendas-Antigas
 Jogo RPG de turnos
